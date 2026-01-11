@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Conference Registration</string>
+
+    <!-- Main Screen -->
+    <string name="title_main">Conference Registration System</string>
+    <string name="subtitle_main">Ankara Science University</string>
+    <string name="btn_registration">Participant Registration</string>
+    <string name="btn_verification">Participant Verification</string>
+
+    <!-- Registration Screen -->
+    <string name="title_registration">Participant Registration</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="label_title">Title</string>
+    <string name="label_reg_type">Registration Type</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_conference_info">Conference Info</string>
+    <string name="hint_tap_photo">Tap to take photo</string>
+
+    <!-- Registration Types -->
+    <string name="reg_type_full">Full</string>
+    <string name="reg_type_student">Student</string>
+    <string name="reg_type_none">None</string>
+
+    <!-- Verification Screen -->
+    <string name="title_verification">Participant Verification</string>
+    <string name="hint_search_id">Enter User ID</string>
+    <string name="btn_verify">Verify</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="no_participant">No participant with this ID</string>
+
+    <!-- Registration Type Labels -->
+    <string name="full_registration">Full Registration</string>
+    <string name="student_registration">Student Registration</string>
+    <string name="no_registration">No Registration</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_id">Please enter a valid User ID</string>
+    <string name="error_empty_name">Please enter your full name</string>
+    <string name="error_no_photo">Please take a profile photo</string>
+    <string name="error_id_exists">User ID already exists</string>
+    <string name="success_registration">Registration successful!</string>
+    <string name="error_camera_permission">Camera permission denied</string>
+</resources>

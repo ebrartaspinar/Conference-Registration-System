@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF9E9E9E</color>
+    <color name="dark_gray">#FF616161</color>
+
+    <!-- Verification Colors -->
+    <color name="verification_full">#FF4CAF50</color>
+    <color name="verification_student">#FF2196F3</color>
+    <color name="verification_none">#FFFF9800</color>
+    <color name="verification_error">#FFF44336</color>
+
+    <!-- Launcher Icon -->
+    <color name="ic_launcher_background">#FF3F51B5</color>
+</resources>
